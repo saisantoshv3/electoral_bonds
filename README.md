@@ -8,4 +8,4 @@
   
 - Recommend to download free and more comprehensively cleaned dataset from [Dataful](https://dataful.in/datasets/19700/)
   
-- For detailed explainers and refer [Factly.in](https://factly.in/category/electoral-bonds/)
+- For detailed explainers on Electoral Bonds, refer [Factly.in](https://factly.in/category/electoral-bonds/)
