@@ -19,4 +19,4 @@ final_columns=['date_of_encashment','political_party_name','prefix','bond_number
      'issue_branch_code','status']
 
 final_dataset=final_dataset.sort_values(by='date_of_encashment')
-print(final_dataset[final_columns].to_csv("/Users/apple/Desktop/projects/electoral_bonds/data/final.csv",index=0))
+print(final_dataset[final_columns].to_csv("electoral_bonds/data/final.csv",index=0))
